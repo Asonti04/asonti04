@@ -1,6 +1,6 @@
 ### Hey lovely people 😀
 
-### My name is Asonti, currenlty I am in school to become a Cloud Engineer. I just received my first tech certification: LPI 010 Certification 🎉 Technology has been something I wanted to get into since I left higschool last year and I am now making my dreams come true.
+### My name is Asonti, currently I am in school to become a Cloud Engineer. I just received my first tech certification: LPI 010 Certification 🎉 Technology has been something I wanted to get into since I left highschool last year and I am now making my dreams come true.
 
 ### Connect with me @
 ### LinkedIN: https://www.linkedin.com/in/asonti-ginn-80079a268
