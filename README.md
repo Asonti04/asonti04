@@ -3,8 +3,8 @@
 ### My name is Asonti, currently I am in school to become a Cloud Engineer. I just received my Second Technical Certfication: AWS Certified Developer Associate 🎉 Technology has been something I wanted to get into since I left highschool last year and I am now making my dreams come true.
 
 ### Connect with me @
-[![Linkedin Badge](https://img.shields.io/badge/-Asonti Ginn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asontidginn)](https://www.linkedin.com/in/asontidginn)
-[![Medium Badge](https://img.shields.io/badge/Asonti Ginn-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@asontidg)](https://medium.com/@asontidg)
+[![Linkedin Badge](https://img.shields.io/badge/-AsontiGinn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asontidginn)](https://www.linkedin.com/in/asontidginn)
+[![Medium Badge](https://img.shields.io/badge/AsontiGinn-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@asontidg)](https://medium.com/@asontidg)
 
 ### SKILLS!
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
