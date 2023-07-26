@@ -12,6 +12,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+
 <!-- My name is Asonti, currenlty I am in school to become a Cloud Engineer. I just received my first tech certification: LPI 010 Certification 🎉
 
 **Asonti04/asonti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
