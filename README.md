@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonti04_count=5&theme=tokyonight)]()
 
 
 <!-- My name is Asonti, currenlty I am in school to become a Cloud Engineer. I just received my first tech certification: LPI 010 Certification 🎉
