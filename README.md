@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Asonti04&langs_count=5&theme=tokyonight)]()
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Asonti04&count_private=true&show_icons=true&include_all_commits=true)
 
 <!-- My name is Asonti, currenlty I am in school to become a Cloud Engineer. I just received my first tech certification: LPI 010 Certification 🎉
 
