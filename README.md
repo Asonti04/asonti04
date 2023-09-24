@@ -1,6 +1,6 @@
 ### Hey lovely people 😀
 
-### My name is Asonti, currently I am in school to become a Cloud Engineer. I just received my Second Technical Certfication: AWS Certified Developer Associate 🎉 Technology has been something I wanted to get into since I left highschool last year and I am now making my dreams come true.
+### My name is Asonti, I recently finished school to become a Cloud Engineer. I just received my Third Technical Certfication: Hashicorp Terraform Associate 🎉 Technology has been something I wanted to get into since I left highschool last year and I am now making my dreams come true.
 
 ### Connect with me @
 [![Linkedin Badge](https://img.shields.io/badge/-AsontiGinn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asontidginn)](https://www.linkedin.com/in/asontidginn)
